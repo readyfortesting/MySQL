@@ -1,0 +1,1 @@
+SELECT * FROM student,adress where adress.student_id=student.student_id;
